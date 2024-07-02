@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("YungChingAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a97ec031a5b1f297aae05e8e936beeca77ee1c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("YungChingAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YungChingAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
